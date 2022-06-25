@@ -90,7 +90,5 @@ class MainActivity : AppCompatActivity() {
             w = w + 1
         }
     }
-
-
 }
 
